@@ -238,12 +238,12 @@
 					],
 					"query": [
 						{
-							"key": "token",
-							"value": "{{scrape_do_token}}"
+							"key": "url",
+							"value": "https://www.totalwine.com/beer/c/c0010?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26zipCode=80124"
 						},
 						{
-							"key": "url",
-							"value": "https://www.totalwine.com/beer/c/c0010?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}"
+							"key": "token",
+							"value": "{{scrape_do_token}}"
 						},
 						{
 							"key": "render",
@@ -494,12 +494,12 @@
 					],
 					"query": [
 						{
-							"key": "token",
-							"value": "{{scrape_do_token}}"
+							"key": "url",
+							"value": "https%3A%2F%2Fwww.totalwine.com%2Fspirits%2Fready-to-drink%2Fc%2F000791%3FpageSize%3D24%26aty%3D0%2C0%2C0%2C0%26page%3D%7B%7Bscrape_page%7D%7D%26zipCode%3D80124"
 						},
 						{
-							"key": "url",
-							"value": "https%3A%2F%2Fwww.totalwine.com%2Fspirits%2Fready-to-drink%2Fc%2F000791%3FpageSize%3D24%26aty%3D0%2C0%2C0%2C0%26page%3D%7B%7Bscrape_page%7D%7D"
+							"key": "token",
+							"value": "{{scrape_do_token}}"
 						},
 						{
 							"key": "render",
@@ -750,12 +750,12 @@
 					],
 					"query": [
 						{
-							"key": "token",
-							"value": "{{scrape_do_token}}"
+							"key": "url",
+							"value": "https%3A%2F%2Fwww.totalwine.com%2Fspirits%2Fc%2Fc0030%3FpageSize%3D24%2526aty%3D0%2C0%2C0%2C0%2526page%3D%7B%7Bscrape_page%7D%7D%2526zipCode%3D80124"
 						},
 						{
-							"key": "url",
-							"value": "https%3A%2F%2Fwww.totalwine.com%2Fspirits%2Fc%2Fc0030%3FpageSize%3D24%2526aty%3D0%2C0%2C0%2C0%2526page%3D%7B%7Bscrape_page%7D%7D"
+							"key": "token",
+							"value": "{{scrape_do_token}}"
 						},
 						{
 							"key": "render",
@@ -1006,12 +1006,12 @@
 					],
 					"query": [
 						{
-							"key": "token",
-							"value": "{{scrape_do_token}}"
+							"key": "url",
+							"value": "https%3A%2F%2Fwww.totalwine.com%2Fnon-alcoholic-beer%2Fc%2Fbrg_dyn_4dwao3f2r6%3FpageSize%3D24%2526aty%3D0%2C0%2C0%2C0%2526page%3D%7B%7Bscrape_page%7D%7D%2526zipCode%3D80124"
 						},
 						{
-							"key": "url",
-							"value": "https%3A%2F%2Fwww.totalwine.com%2Fnon-alcoholic-beer%2Fc%2Fbrg_dyn_4dwao3f2r6%3FpageSize%3D24%2526aty%3D0%2C0%2C0%2C0%2526page%3D%7B%7Bscrape_page%7D%7D"
+							"key": "token",
+							"value": "{{scrape_do_token}}"
 						},
 						{
 							"key": "render",
