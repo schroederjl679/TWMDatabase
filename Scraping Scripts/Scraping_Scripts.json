@@ -243,7 +243,7 @@
 						},
 						{
 							"key": "url",
-							"value": "https://www.totalwine.com/beer/c/c0010?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26zipCode=80124"
+							"value": "https://www.totalwine.com/beer/c/c0010?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26storeId=2302"
 						},
 						{
 							"key": "token",
@@ -499,7 +499,7 @@
 						},
 						{
 							"key": "url",
-							"value": "https://www.totalwine.com/spirits/ready-to-drink/c/000791?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26zipCode=80124"
+							"value": "https://www.totalwine.com/spirits/ready-to-drink/c/000791?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26storeId=2302"
 						},
 						{
 							"key": "token",
@@ -755,7 +755,7 @@
 						},
 						{
 							"key": "url",
-							"value": "https://www.totalwine.com/spirits/c/c0030?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26zipCode=80124"
+							"value": "https://www.totalwine.com/spirits/c/c0030?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26storeId=2302"
 						},
 						{
 							"key": "token",
@@ -1011,7 +1011,7 @@
 						},
 						{
 							"key": "url",
-							"value": "https://www.totalwine.com/non-alcoholic-beer/c/brg_dyn_4dwao3f2r6?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26zipCode=80124"
+							"value": "https://www.totalwine.com/non-alcoholic-beer/c/brg_dyn_4dwao3f2r6?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26storeId=2302"
 						},
 						{
 							"key": "token",
