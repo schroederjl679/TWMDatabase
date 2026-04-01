@@ -239,7 +239,7 @@
 					"query": [
 						{
 							"key": "GeoCode",
-							"value": "80124"
+							"value": "us"
 						},
 						{
 							"key": "url",
@@ -495,7 +495,7 @@
 					"query": [
 						{
 							"key": "GeoCode",
-							"value": "80124"
+							"value": "us"
 						},
 						{
 							"key": "url",
@@ -751,7 +751,7 @@
 					"query": [
 						{
 							"key": "GeoCode",
-							"value": "80124"
+							"value": "us"
 						},
 						{
 							"key": "url",
@@ -1007,7 +1007,7 @@
 					"query": [
 						{
 							"key": "GeoCode",
-							"value": "80124"
+							"value": "us"
 						},
 						{
 							"key": "url",
