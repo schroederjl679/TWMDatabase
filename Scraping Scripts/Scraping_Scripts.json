@@ -238,16 +238,12 @@
 					],
 					"query": [
 						{
-							"key": "GeoCode",
-							"value": "us"
+							"key": "token",
+							"value": "{{scrape_do_token}}"
 						},
 						{
 							"key": "url",
-							"value": "https://www.totalwine.com/beer/c/c0010?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}%26storeId=2302"
-						},
-						{
-							"key": "token",
-							"value": "{{scrape_do_token}}"
+							"value": "https://www.totalwine.com/beer/c/c0010?pageSize=24%26aty=0,0,0,0%26page={{scrape_page}}"
 						},
 						{
 							"key": "render",
@@ -256,6 +252,10 @@
 						{
 							"key": "Super",
 							"value": "true"
+						},
+						{
+							"key": "GeoCode",
+							"value": "us"
 						}
 					]
 				},
